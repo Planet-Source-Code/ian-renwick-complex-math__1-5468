@@ -1,0 +1,6 @@
+FormAboutComplexMath = 88, 88, 742, 492, C, 176, 176, 599, 409, C
+FormComplexMath = 17, 14, 757, 664, , 84, 153, 628, 600, C
+FormSplashScreen = 139, 75, 687, 522, C, 198, 198, 731, 547, C
+FormWhatsNew = 176, 176, 720, 623, C, 154, 154, 579, 443, C
+ModuleComplexMath = 5, 4, 742, 647, C
+FormHelp = 154, 154, 533, 601, C, 13, 15, 439, 399, C
